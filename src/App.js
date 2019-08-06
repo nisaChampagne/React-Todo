@@ -6,7 +6,7 @@ import "./components/TodoComponents/Todo.css";
 
 const todoData = [
   {
-    task: "Go grocery shopping",
+    task: "Go to grocery shopping",
     id: 123,
     completed: false
   },
@@ -16,8 +16,13 @@ const todoData = [
     completed: false
   },
   {
-    task: "Meal Prep",
+    task: "Meal Prepping",
     id: 1235,
+    completed: false
+  }, 
+  {
+    task: 'Watching new Pewdiepie video',
+    id: 1236,
     completed: false
   }
 ];
