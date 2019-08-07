@@ -11,6 +11,7 @@
 
 .header {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
     padding-top: 20px;
@@ -49,7 +50,7 @@ h1 {
   }
 
 form {
-    width: 30%;
+    width: 50%;
     display: flex;
     justify-content: flex-end;
   }
